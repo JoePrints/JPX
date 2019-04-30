@@ -1,0 +1,22 @@
+Z-2x HFSB6-3060-330-TPW-CW (332 is advised if you want to keep the full 210mm print height)
+
+Y-2x HFSB6-3030-320-TPW-Z8-XA70-XB100-CW
+
+X-3x HFSB6-3060-354-Z8-YA12-YB342-CW 
+
+Y braces-2x HFSB6-3030-55-LTP-CW 
+
+Base brackets-4x HPLAT5
+
+Blind brackets-6x SHBLBSL6
+
+X/Z brackets-2x SHPTLS6-SET
+
+Y brace brackets-2x SHPTSD6-SET
+
+Front brackets-2x HBLFSNB6-SET
+
+Frame bolts-14x CB8-45
+
+
+M6-18 hardware is required for the printed parts (47 sets with Tnuts)
